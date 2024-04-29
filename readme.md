@@ -1,38 +1,8 @@
 # Bitcoin price prediction using BERT based Sentiment Analysis
-  .
+The project focuses on developing a machine learning model that leverages sentiment analysis of Twitter data, processed by Fin-BERT and Twitter-Roberta, to predict Bitcoin prices effectively. By evaluating the effectiveness of these fine-tuned language models in capturing both financial and social media sentiment surrounding Bitcoin, the aim is to gain deeper insights into the relationship between Twitter sentiment and Bitcoin price fluctuations. Ultimately, this research seeks to provide valuable information for investors and market analysts, empowering them to make more informed decisions within the dynamic Bitcoin market.
 
-
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
-
-## General Information
-#### Problem Statement
-
-#### Dataset
-
-
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
-
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- Numpy - version 1.20.3
-- Pandas - version 1.3.4
-- Seaborn - version 0.11.2
-- Matplotlib - version 3.4.3
-- Pandas Profiling - version 3.1.1
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 
 ## Contact
